@@ -1,1 +1,1 @@
-# python-sdk
+# Cloud Annotations Python SDK
